@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "838012b38c26eb3ee76d",
+    "revision": "bbd74415ec5948169c8e",
     "url": "/wiki-web/static/css/main.481c97db.chunk.css"
   },
   {
-    "revision": "838012b38c26eb3ee76d",
-    "url": "/wiki-web/static/js/main.838012b3.chunk.js"
+    "revision": "bbd74415ec5948169c8e",
+    "url": "/wiki-web/static/js/main.bbd74415.chunk.js"
   },
   {
     "revision": "aae86950e81b2fcea5b7",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/wiki-web/static/media/search-icon.2e32fbcb.svg"
   },
   {
-    "revision": "2f3f829d108bb1016fde8c3f28d3a2d5",
+    "revision": "04c9f44a99c07d8411a1c436d1dcb1a1",
     "url": "/wiki-web/index.html"
   }
 ];
